@@ -29,5 +29,4 @@ ggplot() + geom_line(data = volve, aes(date,GOR,color=WELL_BORE_CODE)) + theme_b
 
 #Tambahan untuk data welltesting
 
-
-#drilling
+#Production
